@@ -35,7 +35,7 @@ The dashboard provides an intuitive user interface to access all features, inclu
 ![Image](https://github.com/user-attachments/assets/0939de31-f89c-4e01-95f9-c0d8553901e3)
 
 2. Tax Calculator: Instant tax computation.
-![Image](https://github.com/user-attachments/assets/c55ea186-5e5f-4fab-a27d-04447cf11fe2)
+![Image](https://github.com/user-attachments/assets/f4531a3f-a7dd-4d60-ac72-d448ffe4dfb1)
 
 3. Tax Filing: Automated Form 16 generation for India.
 ![Image](https://github.com/user-attachments/assets/bcf7066d-5d0c-476e-a8f3-fbdd7cd5dd6c)
