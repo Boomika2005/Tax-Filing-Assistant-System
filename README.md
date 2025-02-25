@@ -32,7 +32,7 @@ Tax Filing and Assistant System Dashboard:
 The dashboard provides an intuitive user interface to access all features, including:
 
 1. Tax Assistant Bot: For both USA & India and suggest deductions as personalized recommendations..
-![Image](https://github.com/user-attachments/assets/2de7cca4-59da-404b-8288-f6516c8759ce)
+![Image](https://github.com/user-attachments/assets/0939de31-f89c-4e01-95f9-c0d8553901e3)
 
 2. Tax Calculator: Instant tax computation.
 ![Image](https://github.com/user-attachments/assets/c55ea186-5e5f-4fab-a27d-04447cf11fe2)
