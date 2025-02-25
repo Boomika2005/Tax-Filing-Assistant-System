@@ -38,7 +38,7 @@ The dashboard provides an intuitive user interface to access all features, inclu
 ![Image](https://github.com/user-attachments/assets/f4531a3f-a7dd-4d60-ac72-d448ffe4dfb1)
 
 3. Tax Filing: Automated Form 16 generation for India.
-![Image](https://github.com/user-attachments/assets/bcf7066d-5d0c-476e-a8f3-fbdd7cd5dd6c)
+![Image](https://github.com/user-attachments/assets/99acaece-a30f-44e7-9bac-25e30c034eeb)
 
 
 Tech Stack:
