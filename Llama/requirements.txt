@@ -1,0 +1,10 @@
+mysql-connector-python=9.2.0
+mysqlclient==2.2.7
+SQLAlchemy==3.1.1
+openpyxl=3.1.5
+xlrd=2.0.1
+<<<<<<< HEAD
+dotenv=1.0.1
+=======
+xlsxriter=3.2.2
+>>>>>>> 4c17f3de589fdadb21e1f00842cc07faf484def0
