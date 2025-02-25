@@ -79,8 +79,8 @@ Follow these steps to set up and run the Tax Assistant application:
     pip install -r requirements.txt
 
     `````````````````````````````````
-5. Install API Mentioned below and add the API's by creating a folder named ".streamlit" in root of the directory inside that create a file name
- ".toml".
+5. Install API Mentioned below and add the API's by creating a folder named ".streamlit" in root directory inside that create a file name
+ "secrets.toml".
 
    ```````````````````````````````````````````````````
     - GROQ_API_KEY=your_groq_api_key
